@@ -47,6 +47,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/masafumisasaki/OreOre-Module/issues"
+      },
+      "homepage" : "https://github.com/masafumisasaki/OreOre-Module",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/masafumisasaki/OreOre-Module.git",
+         "web" : "https://github.com/masafumisasaki/OreOre-Module"
+      }
+   },
    "version" : "0.01",
    "x_contributors" : [
       "masafumisasaki <yokotesimin2058@gmail.com>"
